@@ -1,0 +1,14 @@
+Commands being used here
+
+cd “/C/Users/mdealmeida/Documents/ETHZ Courses/Java Course/"
+
+# Fork the project from GitHUb and clone it to local machine by typing
+
+git clone https://github.com/marianaalcos/java-course-2023
+
+# now you should be able to see the directory on your local machine
+
+now change to the directory of git bash to the java-course-2023 folder where .git is 
+(alternatively, if you're on File Explorer, go to the folder, open it, right click anywhere and select "Open Git Bash here")
+
+git status 
