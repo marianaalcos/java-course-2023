@@ -12,3 +12,25 @@ now change to the directory of git bash to the java-course-2023 folder where .gi
 (alternatively, if you're on File Explorer, go to the folder, open it, right click anywhere and select "Open Git Bash here")
 
 git status 
+
+# If you make changes git status should be different
+# if you add a file to the folder, you can add it to Git and then push it to the remote repository
+
+git add .
+# (this will add all files)
+
+git commit -m "Here you comment on your changes"
+
+# now you need to push the changes to the online repository 
+
+git push
+
+# now I modified these notes again, so I need to repeat the add . and commit procedure
+
+git add .
+
+git commit -m "Updated notes on GitHub Commands.txt" 
+
+# and push again to online
+
+git push
